@@ -1,16 +1,18 @@
-### Hi there 👋
+   <div align="center" style="text-align: "center">
+        <a href="https://git.io/typing-svg"> 
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F78CC6&multiline=true&random=false&width=350&height=60&lines=Welcome+to+my+little+place+!" alt="Typing SVG" /></a>
+  </div>
+  
+  <div align="center">
+    <img width="5%" src="https://i.imgur.com/qMgGs0y.gif">
+  </div>
+  
+ <div>
+   <a href="https://github.com/Vanitas-y">
+   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vanitas-y&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanitas-y&layout=compact&langs_count=6&theme=synthwave"/>
+</div>
+ 
+<br>
+ 
 
-<!--
-**Vanitas-y/Vanitas-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
